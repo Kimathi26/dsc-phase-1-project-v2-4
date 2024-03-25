@@ -1,4 +1,4 @@
-![Microsoft](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Flegal%2Fintellectualproperty%2Ftrademarks&psig=AOvVaw2JmLMbLnSUqyoQ7BjoM3VN&ust=1711175946704000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjl7aihh4UDFQAAAAAdAAAAABAE)
+![Microsoft](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31)
 # WHY MICROSOFT SHOULD INVEST INTO THE MOVIE INDUSTRY
 
 The following data set and analysis is used to get actionable insight into this industry to create a profitable and revenue-generating
