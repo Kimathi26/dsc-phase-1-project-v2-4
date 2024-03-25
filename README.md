@@ -45,7 +45,7 @@ I ventured into three arguments for our data analysis;
 The average rating column was referenced to our budget analysis and the findings we got was that 
 generally an upward trend was noticed in the rating as our budget increased
 
-![Average Rating vs Budget]("C:\Users\amutu\Downloads\output.png")
+![Average Rating vs Budget](C:\Users\amutu\OneDrive\Desktop\Moringa\Project\dsc-phase-1-project-v2-4\output.png)
 
 ### Average Rating vs Genre Analysis
 
@@ -54,7 +54,7 @@ find the most popular genres among our viewers.
 he genres are fairly aligned although it doesn't present a strong case for causation. But from the data we can also tell that there is correlation between certain genres and the higher the ratings and this can help us decide on which avenue we would like to venture
 into.
 
-![Average Rating vs Genre]("C:\Users\amutu\Downloads\output3.png"))
+![Average Rating vs Genre]("C:\Users\amutu\OneDrive\Desktop\Moringa\Project\dsc-phase-1-project-v2-4\output3.png")
 
 ### Production Budget vs Worldwide Gross
 
@@ -63,7 +63,7 @@ and how investing into quality would correspond to the global market in terms of
 From this we can tell that putting the work during creation and production would generally 
 appease the global market so might be something worthwhile to think about.
 
-![Budget vs Worldwide Gross]("C:\Users\amutu\Downloads\output2.png")
+![Budget vs Worldwide Gross]("C:\Users\amutu\OneDrive\Desktop\Moringa\Project\dsc-phase-1-project-v2-4\output2.png")
 
 ## Conclusion
 
